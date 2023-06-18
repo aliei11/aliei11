@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @aliei11
-- 👀 I’m interested in Genome and Next Generation Sequencing data analysis, Gene prediction, de novo Assembly and comparative genomics and biological data integration in human diseases
-- 🌱 I’m currently learning Bioinformatics as a master student at unimi,IT.
+- 👋 ~ Hi, I’m @aliei11
+- 👀 ~ Interested in Multi-omics Data Integration, Comparative and Evolutionary Genomics in Human Diseases
+- 🌱 I’m a graduate student in Bioinformatics at UniMI,IT.
 - 💞️ I’m looking to collaborate on omics data analysis
-- 📫 How to reach me: www.linkedin.com/in/ali-ehsani-aei , aliei7511@gmail.com
+- 📫 How to reach me: www.linkedin.com/in/ali-ehsani-aei , aliehsani.bioinf@gmail.com
 
 
 <!---
