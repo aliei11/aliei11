@@ -1,6 +1,6 @@
 - 👋 ~ Hi, I’m @aliei11
-- 👀 ~ Interested in Multi-omics Data Integration, Comparative and Evolutionary Genomics in Human Diseases
-- 🌱 I’m a graduate student in Bioinformatics at UniMI,IT.
+- 👀 ~ Interested in Multi-omics Data Integration in Precision Medicine
+- 🌱 I’m a research assistant in Bioinformatics at Clinical Bioinformatics Lab,MHH,Hannover,DE.
 - 💞️ I’m looking to collaborate on omics data analysis
 - 📫 How to reach me: www.linkedin.com/in/ali-ehsani-aei , aliehsani.bioinf@gmail.com
 
