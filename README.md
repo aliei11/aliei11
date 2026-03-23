@@ -1,7 +1,7 @@
 - 👋 ~ Hi, I’m @aliei11
 - 👀 ~ Interested in Multi-omics Data Integration in Precision Medicine
-- 🌱 I’m a research assistant in Bioinformatics at Clinical Bioinformatics Lab,MHH,Hannover,DE
-- 💞️ I’m looking to collaborate on omics data analysis
+- 🌱 Currently, I’m a research assistant as a Bioinformatician at Clinical Bioinformatics Lab, Medizinische Hochschule Hannover (MHH),Hannover,DE
+- 💞️ I’m looking to collaborate on omics data analysis + clinical data
 - 📫 How to reach me: www.linkedin.com/in/ali-ehsani-aei , aliehsani.bioinf@gmail.com
 
 
